@@ -1,6 +1,11 @@
 <p align="center">
   <img src="Image/Banner.png" alt="Spectre Banner" width="150%">
 </p>
+<h1 align="center">SPECTRE</h1>
+
+<p align="center">
+  <b>Stealthy DNS Threat Detection & Intelligence Engine</b>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1.0-blue.svg?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/Python-3.9+-blue.svg?style=flat-square" alt="Python">
@@ -9,11 +14,7 @@
   <img src="https://img.shields.io/badge/Network-DNS-black.svg?style=flat-square" alt="Network">
 </p>
 
-<h1 align="center">SPECTRE</h1>
 
-<p align="center">
-  <b>Stealthy DNS Threat Detection & Intelligence Engine</b>
-</p>
 
 <p align="center">
   SPECTRE is an intelligent DNS threat detection engine that identifies covert tunneling, anomalous DNS behavior, suspicious query patterns, and potential data exfiltration through real-time traffic analysis, behavioral correlation, and unsupervised machine learning.
